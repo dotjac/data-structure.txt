@@ -1,0 +1,17 @@
+Step1: create vairable to hold the two set
+Step2: create variable to hold result
+Step3: Go through the set
+Step4: Identify unique item in each of the set 
+Step5: Add all the unique items and store in result variable
+Step6: Print the result
+
+step1: Create a function called product
+step2: pass parameter v1 v2 into product
+step3: Add v1 v2 parameters
+step4: Return the sum
+
+step1: Create variable to hold the array
+step2: Go through the array items
+step3: Pick the smallest item in the array and compare it with item on index 0
+step4: If the item in index 0 is greater than the smallest item, place the smaller item on index 0
+step5: Repeat the process until all item are sorted.
